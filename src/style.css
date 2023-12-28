@@ -45,8 +45,12 @@ border-radius: 40px;
 padding: 10px;
 margin-left: 10px 0px 0px 10px;
 font-size: 16px;
-font-weight: bold;
 border: none;
+}
+
+.submit-button:hover {
+    background-color: rgb(87, 2, 87);
+    cursor: pointer;
 }
 
 a {
