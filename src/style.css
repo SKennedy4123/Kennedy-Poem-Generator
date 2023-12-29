@@ -10,7 +10,7 @@ h1 {
     text-align: center;
     padding: 10px 0;
 }
-form {
+.form-container {
     background: whitesmoke;
     padding: 10px;
     margin: 0 auto;
@@ -19,6 +19,13 @@ form {
     border: none;
     font-size: 18px;
     margin-bottom: 10px;
+ 
+}
+
+.hint {
+    color: gray;
+    font-size: 16px;
+    text-align: center;
 }
 .poem {
     background: whitesmoke;
@@ -31,6 +38,10 @@ form {
         text-align: left;
         line-height: 2;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.hidden {
+    display: none;
 }
 
 .topic-input {
