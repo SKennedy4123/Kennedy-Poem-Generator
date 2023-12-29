@@ -1,6 +1,9 @@
 body {
-    background: rgba(244, 244, 169, 0.88);
-    text-align: center;
+background: linear-gradient(113deg, rgb(251, 250, 205) 24.4%, rgb(247, 163, 205) 53.7%, rgb(118, 1, 118) 99.2%);
+background-size: cover;  
+min-height: 1000px;
+background-repeat: no-repeat; 
+text-align: center;
 }
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
